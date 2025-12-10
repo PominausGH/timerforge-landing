@@ -1,7 +1,8 @@
 {
-  "name": "timerforge-landing",
+  "name": "timerforge-landing",           // ← change if your project name is different
   "compatibility_date": "2025-12-10",
+  "main": "noop.js",                      // ← this tricks Wrangler into running
   "assets": {
-    "directory": "/"
+    "directory": "."                      // ← upload everything in the repo root
   }
 }
