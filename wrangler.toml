@@ -1,3 +1,0 @@
-name = "timerforge-landing"
-compatibility_date = "2025-12-10"
-assets = { directory = "./", not_found_handling = "single-page-application" }
