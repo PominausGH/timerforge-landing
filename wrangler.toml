@@ -1,6 +1,3 @@
 name = "timerforge-landing"
 compatibility_date = "2025-12-10"
-main = "index.js"
-
-[site]
-bucket = "./"
+assets = { directory = "./", not_found_handling = "single-page-application" }
